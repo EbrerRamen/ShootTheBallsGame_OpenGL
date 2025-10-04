@@ -45,9 +45,9 @@ The game tracks your **score**, **lives**, and **miss fires**, and ends when con
 
 ## 🎮 Controls
 
-A -> Move shooter left
-D -> Move shooter right
-Space -> Shoot bullet
-Left Arrow Button -> Restart game
-Play/Pause Button -> Pause/Resume
-Cross Button -> Exit game
+A -> Move shooter left  
+D -> Move shooter right  
+Space -> Shoot bullet  
+Left Arrow Button -> Restart game  
+Play/Pause Button -> Pause/Resume  
+Cross Button -> Exit game  
