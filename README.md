@@ -32,7 +32,7 @@ The game tracks your **score**, **lives**, and **miss fires**, and ends when con
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/yourusername/shoot-the-balls.git
+   git clone https://github.com/EbrerRamen/shoot-the-balls.git
    cd shoot-the-balls
 2. Install Dependencies
    ```bash
